@@ -132,7 +132,7 @@ def show_about():
     about_text = (
         "KOOKIEEYY'S SPACE - About\n\n"
         "Version: 1.0\n"
-        "Author: Kookieeyy\n"
+        "Author: Bhavya Sehgal\n"
         "Purpose: GUI terminal for Kali Linux tools.\n"
         "Supports multiple themes including Light, Dark, Solarized, and Dracula.\n\n"
         "Operations and their descriptions:\n\n"

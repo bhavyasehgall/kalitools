@@ -842,7 +842,7 @@ def show_about():
         "  ROT13, ROT47, Caesar cipher\n"
         "  Morse code\n\n"
         "Multi-layer decoding supported.\n\n"
-        "Author: Kookiieeyy\n"
+        "Author: Bhavya Sehgal\n"
         "Version: 2.0.0 (Fixed)"
     )
     messagebox.showinfo("About", about_text)
